@@ -4,11 +4,11 @@
 buildarch=4
 
 pkgbase=linux-armv7
-_srcname=linux-3.12
+_srcname=linux-3.13
 _kernelname=${pkgbase#linux}
 _desc="ARMv7 multi-platform"
-pkgver=3.12.6
-pkgrel=3
+pkgver=3.13
+pkgrel=4
 rcnrel=armv7-x11
 arch=('armv7h')
 url="http://www.kernel.org/"
